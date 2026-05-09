@@ -1,0 +1,12 @@
+{
+  "name": "ai2-fast-deploy-safe",
+  "version": "1.5.2-fast-deploy-safe",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build-fast.cjs",
+    "start": "node build-fast.cjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

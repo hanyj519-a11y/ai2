@@ -1,0 +1,6 @@
+{
+  "name": "ai2-fast-no-build",
+  "version": "1.5.1-fast-no-build",
+  "private": true,
+  "type": "module"
+}
